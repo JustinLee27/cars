@@ -1,3 +1,10 @@
+## Identifying Information:
+1. Name: Justin Lee
+2. Student ID: 2371816
+3. Email: justlee@chapman.edu
+4. Class: CPSC298
+5. Assignment: cars
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
